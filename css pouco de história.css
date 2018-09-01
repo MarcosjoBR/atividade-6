@@ -1,0 +1,23 @@
+body {
+    background-color: rgba(0, 0, 0, 0.829);
+    width: 2000px;
+    height: 2000px;
+
+}
+
+#texto02 {
+    color: rgba(255, 255, 255, 0.836);
+    text-align: center;
+    width: 1300px;
+    height: 40px; 
+    padding: 10px;
+    margin: 30px;
+
+    color: rgba(255, 255, 255, 0.836);
+    text-align: left;
+    border:1px solid rgb(247, 0, 0);
+    width: auto;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.788);
+    text-align: center;
+}
